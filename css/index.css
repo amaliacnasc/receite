@@ -1,0 +1,18 @@
+.fonte{
+    font-family: "Mulish", sans-serif;
+}
+
+.titulo {
+    line-height: 0%;
+    font-family: "Edu VIC WA NT Beginner", cursive;;
+}
+
+.justificar-texto{
+    text-align: justify;
+}
+
+body{
+    background-color: #e8ab30;
+
+    background: linear-gradient(to right, #ececec,#f5ca74  );
+}
